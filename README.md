@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there, I'm Jefone O. Gorme 👋
+## 🧑‍🎓 A graduate of Bachelor of Science in Information Technology
+## 🏅 _Cum Laude_ of Class 2023
+### Exploring new technologies and using them to develop creative, effective software solutions are two things I'm interested about. I am sure that my great academic performance, commitment, and desire to contribute will foster a supportive team environment. 🌱
 
 <!--
 **jefoneg/jefoneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
