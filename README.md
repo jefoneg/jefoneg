@@ -7,7 +7,7 @@
   Email: jefonegorme@gmail.com
 </p>
 <p align="left">
-  Phone Number: 0975-996-0439
+  Phone Number: 09500370573
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
