@@ -2,13 +2,13 @@
 <h3 align="center">A graduate of Bachelor of Science in Information Technology</h3>
 <h4 align="center">Exploring new technologies and using them to develop creative, effective software solutions are two things I'm interested about. I am sure that my great academic performance, commitment, and desire to contribute will foster a supportive team environment. 🌱</h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  Email: jefonegorme@gmail.com
-</p>
-<p align="left">
-  Phone Number: 09500370573
-</p>
+## Connect with Me
+
+- **Email:** [jefonegorme@gmail.com](mailto:jefonegorme@gmail.com)
+- **Facebook:** [Jefone Gorme](https://www.facebook.com/jefone.gorme.3/)
+- **Instagram:** [@jefoneg](https://www.instagram.com/jefoneg/)
+- **LinkedIn:** [Jefone Gorme](https://www.linkedin.com/in/jefone-gorme-678266258/)
+- **Phone Number:** 09500370573
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
