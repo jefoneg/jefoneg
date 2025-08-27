@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jefone O. Gorme👋</h1>
-<h3 align="center">A seasoned Software Engineer</h3>
+<h3 align="center">A seasoned Software Engineer👨‍💻</h3>
 <h4 align="center">Exploring new technologies and using them to develop creative, effective software solutions are two things I'm interested about. I am sure that my great academic performance, commitment, and desire to contribute will foster a supportive team environment. 🌱</h4>
 
 ## Connect with Me
