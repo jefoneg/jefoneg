@@ -7,7 +7,7 @@
 - **Email:** [jefonegorme@gmail.com](mailto:jefonegorme@gmail.com)
 - **Facebook:** [Jefone Gorme](https://www.facebook.com/jefone.gorme.3/)
 - **Instagram:** [@jefoneg](https://www.instagram.com/jefoneg/)
-- **LinkedIn:** [Jefone Gorme](https://www.linkedin.com/in/jefone-gorme-678266258/)
+- **LinkedIn:** [Jefone Gorme](https://www.linkedin.com/in/jefone-gorme/)
 - **Phone Number:** 09500370573
 
 <h3 align="left">Languages and Tools:</h3>
